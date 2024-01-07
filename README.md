@@ -1,1 +1,3 @@
-# nvim-dotfile
+- Install nvim
+- Go to ~/.config/nvim folder
+- and then paste the script
